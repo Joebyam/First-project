@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(112, 224, 46);
+    border: 2px solid black;
+    color: white;
+}
+p{
+    color: rgb(112, 224, 46);
+    font-size: 400x;
+}
+h1:hover{
+    background-color: rgb(228, 77, 77);
+    color: black;
+}
+html{
+    background-color:rgb(38, 51, 230) ;
+}
+h2:hover{
+    background-color: brown;
+    color:rgb(1, 17, 17);
+    border: 2px solid rgb(31, 31, 30);
+}
